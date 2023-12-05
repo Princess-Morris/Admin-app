@@ -1,0 +1,37 @@
+{
+    "cards": [
+        {
+            "id": 1,
+            "category": "Total Users",
+            "total": "400,000+"
+        },
+        
+        {
+            "id": 2,
+            "category": "Interactive Activities",
+            "total": "40+"
+        },
+        {
+            "id": 3,
+            "category": "Total Teachers",
+            "total": "35+"
+        },
+        {
+            "id": 4,
+            "category": "Total Revenue",
+            "total": "$250,000+"
+        },
+        {
+            "id": 4,
+            "category": "Total Revenue",
+            "total": "$250,000+"
+        },
+        {
+            "id": 5,
+            "category": "Total Activities",
+            "total": "10"
+        }
+        
+    ]
+    
+}
