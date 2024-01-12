@@ -1,10 +1,15 @@
-import { Heading } from "@chakra-ui/react";
+import { Text } from "@chakra-ui/react";
 
 const Interactive = () => {
   return (
-    <Heading>
+    <>
+    <Text>
       Do you have any outstanding activity?
-    </Heading>
+    </Text>
+    <Text>
+      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id, maxime?
+    </Text>
+    </>
   );
 }
 
